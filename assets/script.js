@@ -11,7 +11,7 @@ var includeChars = [];
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 
-// Get reference to #password element
+// Get reference to #password element 
 // Invokes multiple functions to generate random password
 function writePassword() {
   var passwordText = document.querySelector("#password");
