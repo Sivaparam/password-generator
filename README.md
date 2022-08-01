@@ -24,4 +24,6 @@ WHEN the password is generated, THEN the password is either displayed in an aler
 ![alt text](assets/images/sample-alert.png)
 
 
+github URL: https://github.com/Sivaparam/password-generator
 
+Live URL: https://sivaparam.github.io/password-generator/
